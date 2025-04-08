@@ -1,2 +1,2 @@
 # Krushna_Portfolio
-Live Website Link : https://prech0313.github.io/Prerna_Portfolio/
+Live Website Link : [https://github.com/krushna0313/Krushna_Portfolio.git]
